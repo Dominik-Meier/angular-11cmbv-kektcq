@@ -3868,7 +3868,7 @@ export let tempData: any[] = [
 
 export let virtualData: any[] = [];
 let projId: number = 1;
-for (let i: number = 0; i < 20; i++) {
+for (let i: number = 0; i < 125; i++) {
   let x: number = virtualData.length + 1;
   let parent: any = {};
   /* tslint:disable:no-string-literal */
